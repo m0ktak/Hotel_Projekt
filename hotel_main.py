@@ -130,10 +130,8 @@ szallo.foglal(Foglalas(3, '2024-07-20'))
 szallo.foglal(Foglalas(3, '2024-07-21'))
 
 # print(szallo.foglalasListazas)
-print(szallo.szobaLista)
-
+# print(szallo.szobaLista)
 # szallo.foglalasTorles(1,"2024-06-16")
 # print(szallo.szobaLista)
 # szallo.foglalasTorles(1,"2024-06-17")
 # print(szallo.szobaLista)
-szallo.foglalasListazas()
